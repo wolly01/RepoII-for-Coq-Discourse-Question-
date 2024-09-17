@@ -1,0 +1,14 @@
+
+(coq.extraction
+(prelude test)
+(extracted_modules test)
+)
+ 
+; (coq.extraction
+;(prelude test)
+;(extracted_modules )
+;)
+
+ ;(coq.theory
+ ;(name test)
+ ;)
